@@ -1,0 +1,108 @@
+.round {
+  border: 1px solid  lightgray;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2),
+              2px 2px 2px 2px rgba(0, 0, 0, 0.24);
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12%;
+  width: 35%;
+}
+
+.form {
+  padding-left: 20%;
+  padding-top: 2%;
+  width: 30%;
+}
+
+.table {
+  width: 75%;
+}
+
+.button {
+  background-color: darkblue;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  height: 28px;
+  margin-top: 10%;
+  margin-left: 60%;
+  width: 80px;
+}
+
+.logo {
+  padding-left: 10%;
+  padding-top: 10%;
+  width: 55%;
+}
+
+.instructhead {
+  text-align: center;
+  padding-top: 4%;
+}
+
+.instruct {
+  padding-left: 12%;
+  padding-top: 5%;
+  justify-content: space-around;
+}
+
+.checkbox {
+  padding-left: 14%;
+  padding-top: 5%;
+}
+
+.submit {
+  padding-left: 45%;
+  padding-top: 4%;
+}
+
+.subbut {
+  background-color: darkblue;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  height: 32px;
+  width: 80px;
+}
+
+.quest {
+  padding-left: 12%;
+  padding-top: 5%;
+}
+
+.options {
+
+}
+
+.next {
+  background-color: darkblue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  height: 35px;
+  margin-top: 20%;
+  width: 13%;
+}
+
+.summary {
+  padding-left: 35%;
+  padding-top: 15%;
+}
+
+.logout {
+  background-color: darkblue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  height: 35px;
+  width: 7%;
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "No": 1,
+    "Qn": "One horse power is equal to",
+    "Opt1": "746 watts",
+    "Opt2": "748 watts",
+    "Opt3": "756 watts",
+    "Opt4": "736 watts",
+    "Ans": "746 watts"
+  },
+  {
+    "No": 2,
+    "Qn": "The dance encouraged and performance from the temple of Tanjore was",
+    "Opt1": "Kathakali",
+    "Opt2": "Odissi",
+    "Opt3": "Kathak",
+    "Opt4": "Bharatanatyam",
+    "Ans": "Bharatanatyam"
+  },
+  {
+    "No": 3,
+    "Qn": "Within the transporting medium, transport can occur by",
+    "Opt1": "suspension",
+    "Opt2": "solution and traction",
+    "Opt3": "solution",
+    "Opt4": "All of the above",
+    "Ans": "All of the above"
+  },
+  {
+    "No": 4,
+    "Qn": "The Roman governor and principal assassin in the murder of Julies Caesar was",
+    "Opt1": "Marcus Junius Brutus",
+    "Opt2": "Marco Polo",
+    "Opt3": "Leon Trotsky",
+    "Opt4": "Karl Markx",
+    "Ans": "Marcus Junius Brutus"
+  },
+  {
+    "No": 5,
+    "Qn": "FRS stands for",
+    "Opt1": "Fellow Research System",
+    "Opt2": "Federation of Regulation Society",
+    "Opt3": "Fellow of Royal Society",
+    "Opt4": "None of the above",
+    "Ans": "Fellow of Royal Society"
+  }
+]
