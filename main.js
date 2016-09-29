@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { Router, Route, browserHistory } from 'react-router';
 import { Provider } from 'react-redux';
 import Instructions from './src/components/Instructions.jsx';
-import Question from './src/components/Question.jsx';
+import Questionfirst from './src/components/Questionfirst.jsx';
 import Result from './src/components/Result.jsx';
 import { createStore } from 'redux';
 import App from './src/components/App.jsx';
@@ -15,7 +15,7 @@ ReactDOM.render((
     <Router history = {browserHistory}>
       <Route path = "/" component = {App}/>
       <Route path = "instructions" component = {Instructions} />
-      <Route path = "question" component = {Question} />
+      <Route path = "question" component = {Questionfirst} />
       <Route path = "result" component = {Result} />
     </Router>
  </Provider>
